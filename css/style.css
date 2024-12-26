@@ -1,0 +1,86 @@
+
+
+
+.section1{
+    background-image:url(./../images/alex.jpeg);
+    background-size: cover;
+    background-position: center center;
+    height: 60vh;
+}
+
+input::placeholder{
+    color: gainsboro;
+}
+
+/* style => 1 */
+
+.home-style1{
+    border: 2px solid #D5B800;
+    border-radius:20px;
+    color: #D5B800; 
+}
+
+.rubric{
+    font-size: medium;
+    font-weight: 600;
+    color: gainsboro;
+}
+
+.rubric:hover{
+    border: 2px solid #D5B800;
+    border-radius:30px;
+    color: #D5B800;  
+}
+
+.text-color-style1{
+    color: #D5B800;
+}
+
+.style-1{
+    background-color:#795A3A; ;
+}
+
+.style-1-card{
+    background-color: #3F2D1C;
+}
+
+.style-1-card2{
+    background-color: #4E3B28;
+}
+
+/* style => 2 */
+
+.home-style2{
+    border: 2px solid #0097D4;
+    border-radius:20px;
+    color: #0097D4; 
+}
+
+.rubric2{
+    font-size: medium;
+    font-weight: 600;
+    color: gainsboro;
+}
+
+.rubric2:hover{
+    border: 2px solid #0097D4;
+    border-radius:30px;
+    color: #0097D4;  
+}
+
+.text-color-style2{
+    color: #0097D4;
+}
+
+.style-2{
+    background-color:#1E202B; ;
+}
+
+.style-2-card{
+    background-color: #1B1F2C;
+}
+
+.style-2-card2{
+    
+    background-color: #0F1220;
+}
